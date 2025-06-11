@@ -6,4 +6,4 @@
 
 - [No Official create](no_official/readme.md)
 
-- [Script](no_official\script.md)
+- [Script](no_official/script.md)
